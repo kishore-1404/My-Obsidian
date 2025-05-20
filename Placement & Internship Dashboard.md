@@ -5,6 +5,7 @@
 - [[DSA Preparation Plan]]
 - [[Aptitude and Puzzle Preparation]]
 - [[Summer Internship Tracker]]
+- [[Tags Overview]]
 
 ## Progress Tracker
 

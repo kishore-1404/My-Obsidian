@@ -1,4 +1,5 @@
 # Aptitude & Puzzles - <% tp.file.title.split("-")[1] %>
+tags: #aptitude #puzzles #problemsolving
 
 ## Today's Questions
 
@@ -21,6 +22,11 @@ Add question here
 #### Formula/Concept Used
 - 
 
+#### Tags
+<!-- Add specific tags related to this question -->
+<!-- Examples: #timeandwork #percentages #probability #geometry #numbers etc. -->
+<!-- Add difficulty tags: #easy #medium #hard -->
+
 ### Aptitude Question 2
 - **Topic**: 
 - **Source**: 
@@ -39,6 +45,11 @@ Add question here
 
 #### Formula/Concept Used
 - 
+
+#### Tags
+<!-- Add specific tags related to this question -->
+<!-- Examples: #timeandwork #percentages #probability #geometry #numbers etc. -->
+<!-- Add difficulty tags: #easy #medium #hard -->
 
 ## Today's Puzzles
 
@@ -60,6 +71,11 @@ Add puzzle here
 
 #### Key Insights
 - 
+
+#### Tags
+<!-- Add specific tags related to this puzzle -->
+<!-- Examples: #logic #riddle #chess #lateral #mathematical etc. -->
+<!-- Add difficulty tags: #easy #medium #hard -->
 
 ## Weekly Progress
 - Aptitude questions solved this week: 

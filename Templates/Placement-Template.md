@@ -1,4 +1,5 @@
 # Placement Preparation - <% tp.file.title.split("-")[1] %>
+tags: #placement #interview #preparation 
 
 ## Topics Studied Today
 
@@ -73,3 +74,8 @@
 
 ## Tomorrow's Focus
 - 
+
+## Additional Tags
+<!-- Add specific tags related to your preparation -->
+<!-- Examples: #amazon #google #microsoft #product #sde #frontend #backend etc. -->
+<!-- Add topic tags: #systemdesign #behavioural #technicalinterview -->
